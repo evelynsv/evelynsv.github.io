@@ -80,7 +80,7 @@ body {
 	max-width: 550px;
 	padding-right: 15px;
 	padding-left: 15px;
-	background-color: $white;
+	background-color: rgba($white, 0.3);
 	@include center-block();
 	color: $color_shark;
 	z-index: 1;
