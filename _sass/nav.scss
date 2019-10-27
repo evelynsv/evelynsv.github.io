@@ -19,7 +19,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: $comp-color;
+		background: $white;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -43,13 +43,13 @@
 		content: '';
 		position: absolute;
 		width: 68%;
-		height: 5px;
-		background: $white;
+		height: 3px;
+		background: $black;
 		top: 10px;
 		left: 16%;
 		box-shadow: 
-			0 10px 0 $white, 
-			0 20px 0 $white;
+			0 10px 0 $black, 
+			0 20px 0 $black;
 	}
 	button.dl-active {
 		display: none;
