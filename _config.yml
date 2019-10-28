@@ -1,7 +1,8 @@
 # Site
 title:              Hello World
+author:             Evelyn Vieira
 bio:                "I'm Evelyn Vieira and I'm an enthusiast and focused Java developer, always looking for the best project and good coffee."
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "A developer girl, always learning something."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/author.jpg'
