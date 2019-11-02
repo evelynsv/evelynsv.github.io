@@ -5,6 +5,7 @@ date: 2019-10-27
 excerpt: "A guide to learn the Docker operation"
 tags: [Docker, container, image, system]
 feature: 'assets/img/dockerfeature.jpeg'
+img: '../assets/img/dockerfeature.jpeg'
 comments: true
 ---
 
